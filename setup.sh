@@ -90,8 +90,8 @@ $WP_CMD plugin install performance-lab --activate
 $WP_CMD plugin install performant-translations --activate
 # webp-uploads
 $WP_CMD plugin install webp-uploads --activate
-# svg-support
-$WP_CMD plugin install svg-support --activate
+# safe-svg
+$WP_CMD plugin install safe-svg --activate
 
 # git updater
 $WP_CMD plugin install --activate https://github.com/afragen/git-updater/archive/master.zip
